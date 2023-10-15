@@ -4,5 +4,5 @@ This is a breakout board to be able to use RJ12 sockets with four pins (pin 2,3,
 
 ## Revision History:
 
-- **v1.0**: Initial version (Ordered: 15.10.2023)
+- **v1.0**: Initial version (Produced: 15.10.2023)
 
